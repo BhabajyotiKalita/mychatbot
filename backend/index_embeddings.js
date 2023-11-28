@@ -1,12 +1,3 @@
-// Run this server with cmd "node index_embeddings.js" from root directory.
-// Ensure you have values for AIRTABLE_BASE_ID and AIRTABLE_API_KEY environment variables in .env.
-// Airtable base name used in this example is "Frontend Fresh" and Airtable view is "Grid view".
-
-// require("dotenv").config();
-// const express = require("express");
-// const { Configuration, OpenAIApi } = require("openai");
-// const Airtable = require("airtable");
-
 import dotenv from 'dotenv';
 dotenv.config();
 import express from 'express';
