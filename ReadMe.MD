@@ -37,4 +37,4 @@ This is a AI-Powered ChatBot with OpenAI, ChatGPT, Node.js, and React
 
 ### Video demonstrating the working of the chatbot
 
-- Link: 'https://drive.google.com/drive/u/6/folders/1i6ZFaDNn-RFrOuma_bxaQG7kGfX4RPD0'
+- Link: 'https://drive.google.com/file/d/1OmvXr4d4hUyrzfGl2Su_AnnQe88I_sc3/view?usp=drive_link'
