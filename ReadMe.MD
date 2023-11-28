@@ -14,7 +14,7 @@ This is a AI-Powered ChatBot with OpenAI, ChatGPT, Node.js, and React
 
 ## Installation
 
-- Clone this repo `https://github.com/BhabajyotiKalita/mychatbot`
+- Clone this repo: https://github.com/BhabajyotiKalita/mychatbot
 - Navigate into the repo `cd mychatbot`
 
 - Navigate into the `backend` folder `cd backend`
